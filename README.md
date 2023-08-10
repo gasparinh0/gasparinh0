@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b6b4b1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b6b4b1&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Lucas+Gaspari;+:%29)](https://git.io/typing-svg)
-<img src="https://github.com/gasparinh0/images-in-readme/assets/101724615/38572814-05a8-46a8-a448-8757f142733a">
+<img src="https://github.com/gasparinh0/images-in-readme/assets/101724615/416a1fd9-2bee-4ece-879f-cf3f03239b39">
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gasparinh0&show_icons=true&count_private=true&hide_border=true&title_color=b6b4b1&icon_color=ffffff&text_color=b6b4b1&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
