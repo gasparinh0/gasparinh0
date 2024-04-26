@@ -11,7 +11,7 @@
 <h3 align="center">Main skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,figma,html,js,ps,php,wordpress" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,js,tailwind,ps,wordpress" />
   </a>
 </p>
 
