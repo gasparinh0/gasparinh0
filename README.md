@@ -18,7 +18,7 @@
 <h3 align="center">Currently studying</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,py,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,py,react" />
   </a>
 </p>
 
