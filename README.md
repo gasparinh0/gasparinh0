@@ -11,14 +11,14 @@
 <h3 align="center">Main skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,figma,html,js,tailwind,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,postman,figma,tailwind,ps,wordpress" />
   </a>
 </p>
 
 <h3 align="center">Currently studying</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,py,react" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,nextjs,py" />
   </a>
 </p>
 
